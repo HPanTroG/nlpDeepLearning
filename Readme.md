@@ -1,3 +1,3 @@
-- Tweet Embedding:
-  + preprocess.iyinb: process input tweets
-  + Tweet Classification: Classify tweet categories
+- TweetEmbedding:
+  + TweetPreprocess.iyinb: process input tweets
+  + TweetClassification: Classify tweet categories using word embeddings with gensim and character embeddings with pytorch
